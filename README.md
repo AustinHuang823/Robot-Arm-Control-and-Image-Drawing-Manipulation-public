@@ -26,6 +26,8 @@ A user-friendly interface through MATLAB scripts facilitates interaction with th
 
 This project is a demonstration of our team's capability in robotics control and algorithm implementation. While the code is not available due to school regulations, we hope this overview provides insight into our project's scope and accomplishments.
 
+For further inquiries or discussion on the project's concepts and methodologies, please reach out through academic channels or direct communication.
+
 ## Team Members
 
 - Austin Huang
